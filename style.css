@@ -1,0 +1,78 @@
+
+body {
+  font-family: 'Poppins', rokkitt;
+}
+h2 {
+  font-size:70px;
+  margin: 0px 0px;
+  color: grey;
+  position:relative;
+  bottom:150px;
+  padding-right:160px;
+  
+}
+.topic h1{
+  font-size:80px;
+  padding-right:180px;
+  position:relative;
+  bottom:40px;
+}
+img{
+  margin:100;
+}
+#navBar {
+  display: flex;
+  flex-direction: row;
+  margin: 0px 5%;
+}
+#navBar h1{
+  font-color:dark;
+  width: 60%;
+  font-weight:300px;
+  font-size:25px;
+  padding-left:0px;
+}
+#navigation {
+  display: flex;
+  flex-direction:row;
+  width: 50%;
+  justify-content: space-evenly;
+  font-size:20px;
+  padding-right:0px;
+ }
+
+.topic{
+ text-align:center;
+ }
+.topic h2{
+  padding-left:450px;
+  
+}
+.topic h1{
+  padding-top:70px;
+}
+.story{
+  font-size:30px;
+  padding-left:600px;
+  padding-right:200px;
+  position:relative;
+  bottom:600px;
+  }
+.content{
+  padding-left:250px;
+  padding-top:100px;
+}
+.nb{
+  padding-left:800px; 
+  position:relative;
+  bottom:140px;
+}
+.center{
+  position:relative;
+  bottom:150px;
+}
+.project{
+  position:relative;
+  bottom:100px;
+}
+}
